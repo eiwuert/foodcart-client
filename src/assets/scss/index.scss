@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow-y: visible !important;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* application */
+.box-lr {
+  margin-left: 16px !important;
+  margin-right: 16px !important;
+}
+
+.box {
+  margin: 16px !important;
+}
+
+.box-t {
+  margin-top: 16px !important;
+}
+
+.extra-caption {
+  display: flex;
+}
+
+.list-item-category {
+  border-radius: 16px !important;
+  min-height: 72px;
+}

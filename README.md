@@ -3,7 +3,7 @@
 FoodCart ist das Online Bestellsystem für deinen Lieferservice. Das vorliegende Projekt ist eines von Dreien. Es handelt sich hierbei um die Server-Anwendung basierend auf JavaScript / ReactJs.
 
 <p align="center">
-<img src="https://github.com/habibhaidari1/food-cart-js/raw/master/public/icon.png" alt="icon" width="100"/>
+<img src="https://github.com/habibhaidari1/foodcart-client/raw/master/public/icon.png" alt="icon" width="100"/>
 </p>
 <p align="center">
 <img src="https://i.imgur.com/UfkWtpf.jpg" alt="screenshot" width="30%"/>
